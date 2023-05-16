@@ -35,7 +35,6 @@ public class StudentTable extends JFrame implements ActionListener,MouseListener
 
         messageLabel = new JLabel("");
 
-
         p1.add(new JLabel(""));
         p1.add(new JLabel("             Student Tree"));
         p1.add(new JLabel(""));
